@@ -63,7 +63,7 @@ npm install mysql --save
 npm install --save-dev nodemon
 ```
 
-5.	**Setup Database** : Create a new database(e.g. friendsbook) using SSMS. Then execute the below script to create tables & stored procedures
+5.	**Setup Database** : Create a new database(e.g. friendsbook) using MySql Workbench. Then execute the below script to create tables & stored procedures
 ```
 CREATE DATABASE friendsbook; 
 
