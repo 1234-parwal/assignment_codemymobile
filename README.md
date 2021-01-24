@@ -1,5 +1,5 @@
 # assignment_codemymobile
-# What Requires?
+# What is required?
 ```
 •	VS Code
 
@@ -167,7 +167,7 @@ const dbConn = mysql.createConnection({
   
   user     : 'root',
   
-  password : '********',
+  password : 'write your db password here',
   
   database : 'friendsbook'
   
@@ -274,7 +274,7 @@ function App() {
     
   <div className="App">
    <header className="App-header">
-    <input type="text" placeholder="Search..." />
+    <input type="text" placeholder="Search by Id..." />
     <button type="button">Submit</button>
     
 
@@ -301,7 +301,6 @@ function App() {
   </label>
 
  </form>
- <button type="button">Add as Friend</button>
  </header>
  </div>
 
