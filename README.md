@@ -184,7 +184,7 @@ dbConn.connect(function(err) {
 module.exports = dbConn;
 ```
 
-9. Now create the project folder structure as shown in above file - Project folder structure.
+9. Now create the project folder structure as shown in above image - Project folder structure.
 
 --Complete user.model.js file.
 ```
@@ -312,7 +312,7 @@ export default App;
 ```
 
 One can also make changes in the styles and outlook of the webpage using app.css file.
-Screenshotfrontend is how the frontend would look like. By tying **npm start** in terminal or by *http://localhost:3000/* using this url in the browser, the screenshotfrontend would be displayed.
+Screenshotfrontend is how the frontend would look like. By tying **npm start** in terminal or by *http://localhost:3000/* using this url in the browser, the Screenshotfrontend would be displayed.
 
 
 
