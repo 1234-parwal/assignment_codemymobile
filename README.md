@@ -167,7 +167,7 @@ const dbConn = mysql.createConnection({
   
   user     : 'root',
   
-  password : '********',
+  password : 'write your db password here',
   
   database : 'friendsbook'
   
