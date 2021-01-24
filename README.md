@@ -1,4 +1,4 @@
-#API using Node.Js and SQL Server as a Database
+# API using Node.Js and SQL Server as a Database
 
 ## What is required?
 ```
